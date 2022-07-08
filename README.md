@@ -1,8 +1,7 @@
 
 # Estudo sobre logica de programação - JavaScript
 
-![programando](https://media0.giphy.com/media/2juvZoQ3oLa4U/giphy.gif?cid=ecf05e47tfvj343n1lofdmfnkpqg5yvyhrx0ghvw2ayh96qk&rid=giphy.gif&ct=g)
-[Image retirada](<https://https://giphy.com/>)
+[![programando](https://media0.giphy.com/media/2juvZoQ3oLa4U/giphy.gif?cid=ecf05e47tfvj343n1lofdmfnkpqg5yvyhrx0ghvw2ayh96qk&rid=giphy.gif&ct=g)](https://https://giphy.com)
 
 Curso sobre logica de programação usando linguagem JavaScript.
 
