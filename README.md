@@ -5,15 +5,15 @@
 
 Curso sobre logica de programação usando linguagem JavaScript.
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
 Estudando logica de programação, apaixonado por tecnologia e mundo da programação.
 
-## Aprendizados
+### Aprendizados
 
 Cada dia e um desafio para poder quebrar e um dia cheagar e dizer me tornei um desenvolverdor de software!!
 
-## Referência
+### Referência
 
 - [Curso](https://www.udemy.com/share/103GrF/)
 - [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
