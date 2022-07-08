@@ -16,8 +16,8 @@ Cada dia e um desafio para poder quebrar e um dia cheagar e dizer me tornei um d
 > Etapas do curso já concluidas
 
 - [x] Conceito de estrutura de dados e algoritmo.
-  - [x] Algoritmo
-  - [x] Estrutura de dados
+  - [x] Algoritmo [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/ALGORITMO.md)
+  - [x] Estrutura de dados [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/ESTRUTURAS_DE_DADOS.md)
 - [ ] Fundamentos da programação.
 
 ### Referência
