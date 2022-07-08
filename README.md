@@ -13,6 +13,13 @@ Estudando logica de programação, apaixonado por tecnologia e mundo da programa
 
 Cada dia e um desafio para poder quebrar e um dia cheagar e dizer me tornei um desenvolverdor de software!!
 
+> Etapas do curso já concluidas
+
+- [x] Conceito de estrutura de dados e algoritmo.
+  - [x] Algoritmo
+  - [x] Estrutura de dados
+- [ ] Fundamentos da programação.
+
 ### Referência
 
 - [Curso](https://www.udemy.com/share/103GrF/)
