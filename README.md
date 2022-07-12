@@ -20,9 +20,10 @@ Cada dia e um desafio para poder quebrar, Mais vamos por etapas até conseguir.
   - [x] Estrutura de dados [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/ESTRUTURAS_DE_DADOS.md)
 - [x] Fundamentos da programação.
   - [x] O que e sentenças de código? [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/SENTENÇA_DE_CODIGO.md)
-  - [x] Comentarios. [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/COMENTARIOS.md)
+  - [x] Comentários. [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/COMENTARIOS.md)
   - [x] Bloco de código [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/BLOCO_DE_CODIGO.md)
-  - [ ] Dados
+  - [x] Dados
+  - [ ] Tipo Básicos (number, boolean, string)
 
 ### Referência
 
