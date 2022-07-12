@@ -21,7 +21,8 @@ Cada dia e um desafio para poder quebrar e um dia cheagar e dizer me tornei um d
 - [x] Fundamentos da programação.
   - [x] O que e sentenças de código? [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/SENTENÇA_DE_CODIGO.md)
   - [x] Comentarios. [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/COMENTARIOS.md)
-  - [ ] Bloco de código [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/BLOCO_DE_CODIGO.md)
+  - [x] Bloco de código [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/BLOCO_DE_CODIGO.md)
+  - [ ] Dados
 
 ### Referência
 
