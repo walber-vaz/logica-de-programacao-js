@@ -11,9 +11,9 @@ Estudando logica de programação, apaixonado por tecnologia e mundo da programa
 
 ### Aprendizados
 
-Cada dia e um desafio para poder quebrar e um dia cheagar e dizer me tornei um desenvolverdor de software!!
+Cada dia e um desafio para poder quebrar, Mais vamos por etapas até conseguir.
 
-> Etapas do curso já concluidas
+> Etapas do curso já concluídas
 
 - [x] Conceito de estrutura de dados e algoritmo.
   - [x] Algoritmo [Documentação](https://github.com/walber-vaz/logica-de-programacao-js/blob/main/doc/ALGORITMO.md)
