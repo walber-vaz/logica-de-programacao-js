@@ -25,6 +25,7 @@ Cada dia e um desafio para poder quebrar, Mais vamos por etapas até conseguir.
   - [x] Dados
   - [x] Tipo Básicos (number, boolean, string)
   - [x] Variáveis let e const diferença entre elas
+  - [ ] Operadores aritméticos
 
 ### Referência
 
