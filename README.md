@@ -27,7 +27,8 @@ Cada dia e um desafio para poder quebrar, Mais vamos por etapas até conseguir.
   - [x] Variáveis let e const diferença entre elas.
   - [x] Operadores aritméticos.
   - [x] Operadores relacionais.
-  - [ ] Operadores atribuição.
+  - [x] Operadores atribuição.
+  - [ ] Operadores unários.
 
 ### Referência
 
