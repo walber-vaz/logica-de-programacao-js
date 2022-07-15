@@ -29,7 +29,8 @@ Cada dia e um desafio para poder quebrar, Mais vamos por etapas até conseguir.
   - [x] Operadores relacionais.
   - [x] Operadores atribuição.
   - [x] Operadores unários.
-  - [ ] Operadores ternário.
+  - [x] Operadores ternário.
+  - [ ] Estruturas de controle.
 
 ### Referência
 
