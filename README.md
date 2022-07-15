@@ -28,7 +28,8 @@ Cada dia e um desafio para poder quebrar, Mais vamos por etapas até conseguir.
   - [x] Operadores aritméticos.
   - [x] Operadores relacionais.
   - [x] Operadores atribuição.
-  - [ ] Operadores unários.
+  - [x] Operadores unários.
+  - [ ] Operadores ternário.
 
 ### Referência
 
