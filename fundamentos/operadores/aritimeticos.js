@@ -15,5 +15,5 @@ console.log(a * b);
 console.log(a / b);
 console.log(a % b);
 
-a = a + b * a / b;
+a = a + (b * a) / b;
 console.log(a);

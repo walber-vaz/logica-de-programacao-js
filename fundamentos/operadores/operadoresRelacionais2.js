@@ -1,5 +1,5 @@
 let a = 1;
-let b = "1";
+let b = '1';
 
 // == igual so valores iguais.
 console.log(a == b);

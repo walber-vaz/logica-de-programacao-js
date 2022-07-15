@@ -1,7 +1,7 @@
 /**
  * Operadores Unários
  * ==================
- * 
+ *
  * ! -> negação
  * ++ -> incremento antes ou depois do incremento Ex: a++, ++a
  * -- -> decremento antes ou depois do incremento Ex: a--, --a

@@ -21,7 +21,7 @@ x = x * 1;
 x = x / 2;
 x = x % 2;
 
-let y = "texto";
-y += ", mais texto."
+let y = 'texto';
+y += ', mais texto.';
 
 console.log(x);

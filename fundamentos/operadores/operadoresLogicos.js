@@ -10,8 +10,7 @@ let carroEstaGaragem = true;
 
 let resultadoE = '#1 (AND) - vai pro shopping? ';
 resultadoE += temDinheiro && estaEnsolarado;
-console.log(resultadoE)
-
+console.log(resultadoE);
 
 /**
  *      OPERADOR ||(OU)

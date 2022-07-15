@@ -1,7 +1,6 @@
-
 # Estudo sobre logica de programação - JavaScript
 
-[![programando](https://media0.giphy.com/media/2juvZoQ3oLa4U/giphy.gif?cid=ecf05e47tfvj343n1lofdmfnkpqg5yvyhrx0ghvw2ayh96qk&rid=giphy.gif&ct=g)](<https://giphy.com/>)
+[![programando](https://media0.giphy.com/media/2juvZoQ3oLa4U/giphy.gif?cid=ecf05e47tfvj343n1lofdmfnkpqg5yvyhrx0ghvw2ayh96qk&rid=giphy.gif&ct=g)](https://giphy.com/)
 
 Curso sobre logica de programação usando linguagem JavaScript.
 
@@ -30,7 +29,8 @@ Cada dia e um desafio para poder quebrar, Mais vamos por etapas até conseguir.
   - [x] Operadores atribuição.
   - [x] Operadores unários.
   - [x] Operadores ternário.
-  - [ ] Estruturas de controle.
+  - [x] Estruturas de controle.
+    - [ ] Estruturas de controle if.
 
 ### Referência
 

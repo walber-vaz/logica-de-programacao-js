@@ -3,4 +3,4 @@
 let f = 32;
 let conversaoC = ((f - 32) / 9) * 5;
 
-console.log(conversaoC)
+console.log(conversaoC);
