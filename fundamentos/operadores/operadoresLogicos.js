@@ -26,5 +26,5 @@ console.log(resultadoOU);
  *    OPERADOR !(NEGAÇÃO)
  */
 
-console.log('Não verdadeiro: ' + !true);
-console.log('Não falso: ' + !false);
+console.log(`Não verdadeiro: ${!true}`);
+console.log(`Não falso: ${!false}`);
