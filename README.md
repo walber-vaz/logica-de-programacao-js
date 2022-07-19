@@ -31,7 +31,7 @@ Cada dia e um desafio para poder quebrar, Mais vamos por etapas até conseguir.
   - [x] Operadores ternário.
   - [x] Estruturas de controle.
     - [x] Estruturas de controle if.
-    - [ ] Estruturas de controle if/else/else if.
+    - [x] Estruturas de controle if/else/else if.
 
 ### Referência
 
