@@ -34,7 +34,9 @@ Cada dia e um desafio para poder quebrar, Mais vamos por etapas até conseguir.
     - [x] Estruturas de controle if/else/else if.
     - [x] Estruturas de repetição.
       - [x] while.
-      - [ ] for.
+      - [x] for.
+      - [x] switch.
+  - [ ] Funções.
 
 ### Referência
 
