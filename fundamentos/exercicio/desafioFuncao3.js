@@ -7,11 +7,21 @@ const nota3 = 6.7;
 // Recuperação se nota for maior ou igual a 4 e menor 7
 // Reprovadpr se nota for menor que 4
 
+/*
+  DIVIDE para CONQUISTA
+  Der preferência para uma função faça somente uma coisa 
+*/
+
 function menorNota(n1, n2) {
+  // Operador ternário
+  // Se n1 for menor ou igual n2 retorna n1 caso contrario retorna n2
   return n1 <= n2 ? n1 : n2;
 };
 
 function media(n1, n2, n3) {
+  // Como passa 3 parametros para uma função que recebe somente 2 parametros.
+  // passa como o 2 parametro da função a função menorNota verificado qual menor
+  // n2 ou n3.
   const minimo = menorNota(n1, menorNota(n2, n3));
 
   if (minimo === n1) {
