@@ -36,7 +36,8 @@ Cada dia e um desafio para poder quebrar, Mais vamos por etapas até conseguir.
       - [x] while.
       - [x] for.
       - [x] switch.
-  - [ ] Funções.
+  - [x] Funções.
+  - [ ] Array.
 
 ### Referência
 
