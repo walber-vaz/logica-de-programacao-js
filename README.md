@@ -37,7 +37,11 @@ Cada dia e um desafio para poder quebrar, Mais vamos por etapas até conseguir.
       - [x] for.
       - [x] switch.
   - [x] Funções.
-  - [ ] Array.
+  - [x] Array.
+  - [x] Objetos.
+    - [x] Basico.
+    - [x] Atributos do objeto.
+    - [ ] Metodo(função dentro de um objeto) && this usado nos objetos.
 
 ### Referência
 
