@@ -43,7 +43,7 @@ Cada dia e um desafio para poder quebrar, Mais vamos por etapas até conseguir.
     - [x] Atributos do objeto.
     - [x] Metodo(função dentro de um objeto) && this usado nos objetos.
     - [x] Função Construtora.
-    - [x] Classe.
+    - [x] Classes.
 
 ## Conclusão de curso
 
